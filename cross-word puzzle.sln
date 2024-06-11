@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cross-word puzzle", "cross-word puzzle.csproj", "{B997E231-05E5-4315-9320-90EB9BE014EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B997E231-05E5-4315-9320-90EB9BE014EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B997E231-05E5-4315-9320-90EB9BE014EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B997E231-05E5-4315-9320-90EB9BE014EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B997E231-05E5-4315-9320-90EB9BE014EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A7745F-8615-45F6-8CA2-9C28D5B992DE}
+	EndGlobalSection
+EndGlobal
